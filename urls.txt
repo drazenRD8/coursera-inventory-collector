@@ -1,0 +1,4 @@
+Primeri za testiranje:
+https://www.coursera.org/learn/machine-learning
+https://www.coursera.org/learn/python
+https://www.coursera.org/learn/data-science
